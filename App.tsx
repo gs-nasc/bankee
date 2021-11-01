@@ -19,6 +19,8 @@ import {
 import AppLoading from 'expo-app-loading';
 import { StatusBar } from 'expo-status-bar';
 
+//TESTE
+
 export default function App() {
   let [fontsLoaded] = useFonts({
     Roboto_100Thin,

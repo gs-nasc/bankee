@@ -1,5 +1,5 @@
 import React from "react";
-import { ScrollView, StyleSheet, Text, View, StatusBar, Image } from "react-native";
+import { ScrollView, StyleSheet, Text, View, StatusBar } from "react-native";
 import Send from "../../../assets/send.svg";
 import Bank from "../../../assets/bank.svg";
 import Chart from "../../../assets/chart.svg";
@@ -29,7 +29,7 @@ const Home = () => {
                     <View style={styles.rowThree}>
                         <View style={styles.cardThree}>
                             <Send height={38} width={38} fill="#7165e3" />
-                            <Text>Transações</Text>
+                            <Text>Transação</Text>
                         </View>
                         <View style={styles.cardThree}>
                             <Bank height={38} width={38} fill="#7165e3" />

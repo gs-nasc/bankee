@@ -23,9 +23,6 @@ const Input = (props: props) => {
         borderWidth: 1
     });
 
-    // setInputStyle(styles.inputStyle);
-    // const { inputStyle } = styles;
-
     const onFocus = () => {
         setInputStyle(styles.inputStyleFocus);
     }

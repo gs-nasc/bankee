@@ -10,7 +10,7 @@ const Home = () => {
             <ScrollView>
                 <View style={styles.purpleArea}>
                     <View style={styles.balanceArea}>
-                        <Text style={styles.balanceAreaBalance}>R$ 7.425,00</Text>
+                        <Text style={styles.balanceAreaBalance}>R$ 7.426,00</Text>
                         <Text style={styles.balanceAreaText}>Saldo disponível</Text>
                     </View>
                     <View style={styles.card}>

@@ -19,11 +19,8 @@ import {
 import AppLoading from 'expo-app-loading';
 import { StatusBar } from 'expo-status-bar';
 
-<<<<<<< Updated upstream
 //TESTE
-=======
 // ADICIONAR AO ARQUIVO App.tsx
->>>>>>> Stashed changes
 
 export default function App() {
   let [fontsLoaded] = useFonts({
